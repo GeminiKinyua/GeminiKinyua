@@ -5,10 +5,10 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on my first data science project.
-- 🌱 I’m currently learning Python and R for Data Science.
+- 🔭 I’m currently working on my first dashboard.
+- 🌱 I’m currently learning SQL.
 - 👯 I’m looking to contribute to open source data analysis and data science projects.
-- 🤔 I’m looking for help with APIs and frameworks
+- 🤔 I’m looking for help with creating interactive dashboards.
 - 💬 Ask me about anything tech related.
 - 📫 How to reach me: Manasseh Kinyua on social platforms.
 - 😄 Pronouns: He/Him
@@ -16,11 +16,9 @@ Here are some ideas to get you started:
 ## About Me
 <details>
 <summary>My top Languages</summary>
-| Rank | Languages |
-|-----:|-----------|
-|     1| Python    |
-|     2| R         |
-|     3| SQL       |
+     1| Python    
+     2| R         
+     3| SQL       
 </details> 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png">
