@@ -16,10 +16,10 @@ Here are some ideas to get you started:
 ## About Me
 <details>
 <summary>My top Languages</summary>
-|Language|
-|--------|
-|Python|
-|R|
+| Language |
+| -------- |
+| Python |
+| R |
 
 </details> 
 <picture>
